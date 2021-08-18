@@ -1,7 +1,7 @@
 # test-website
 This is my example website, following along with the [beta GitHub Pages lesson][gp-lesson].
 
-## Learning Markdown
+## Example Markdown
 
 Vanilla text may contain *italics* and **bold words**.
 
