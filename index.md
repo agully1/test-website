@@ -5,4 +5,4 @@
 
 More details about the project are available from the [About page](about).
 
-Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
+Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }}) or check out our [Twitter]({{ site.twitter }})
