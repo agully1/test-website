@@ -1,6 +1,8 @@
 # This is my index page
 
 ## Description
-This is an example description for a test website I am building with github pages.
+{{ site.description }}
 
-[Here is a link to the about page](about)
+More details about the project are available from the [About page](about).
+
+Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
