@@ -21,4 +21,4 @@ You can cite the project as:
 - Email: [{{ site.email }}](mailto:{{ site.email }})
 - Twitter: [{{ site.twitter }}]({{ site.twitter }})
 
-This page was written by [{{ page.author }}]({{ page.author }}) and last updated on [{{ page.date }}]({{ page.date }}).
+This page was written by {{ page.author }} and last updated on {{ page.date }}.
