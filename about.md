@@ -3,6 +3,8 @@ author: "Amelia"
 date: "26th August"
 ---
 
+{% include navigation.html %}
+
 # About
 
 ## Project
