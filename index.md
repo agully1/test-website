@@ -1,5 +1,7 @@
 # This is my index page
 
+{% include navigation.html %}
+
 ## Description
 {{ site.description }}
 
