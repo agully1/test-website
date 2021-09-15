@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # This is my index page
 
 {% include navigation.html %}
