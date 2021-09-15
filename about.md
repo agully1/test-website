@@ -4,8 +4,6 @@ date: "26th August"
 layout: default
 ---
 
-{% include navigation.html %}
-
 # About
 
 ## Project
