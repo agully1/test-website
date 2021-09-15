@@ -1,8 +1,7 @@
 ---
 layout: default
+title: Index
 ---
-
-# This is my index page
 
 ## Description
 {{ site.description }}
